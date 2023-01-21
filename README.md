@@ -1,7 +1,7 @@
 # CS50P-Bitcoin-Index
-Takes command-line argument as an integer and coverts it to Bitcoin price via Coindesk API query. 
+Takes a command-line argument as an integer and coverts it to Bitcoin price via Coindesk API query. 
 
-For example: python Bitcoin.py 1 prints the current price of 1 Bitcoin.
+For example: `python Bitcoin.py 1` prints the current price of 1 Bitcoin.
 
 [Video as of Dec 12, 2022]
 
